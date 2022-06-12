@@ -7,3 +7,9 @@
     "discord": "discord-username-and-discriminator"
   }
 }
+
+{
+  "record": {
+    "CNAME": "<github-username>.github.io"
+  }
+}
